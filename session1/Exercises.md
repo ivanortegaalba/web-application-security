@@ -1,32 +1,80 @@
 # Presentation
 if i want to do my intership in INRIA i need to speak with Tamara before November.
 
-Presentations:http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz
-
-email: tamara.rezk@inria.fr
+Presentations:
+```
+http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz
+```
+Email: tamara.rezk@inria.fr
 
 Exam:
 - TPs
 - CM
-- OWASP 
+- OWASP
 
 In the exam there are exercises about practice. I can send the practise to teacher to see if correct.
 
 #Introduction
-**OWASP** -> I can view top-ten web vulnerabilities.
 
-evolutionoftheweb.com -> to view the evolution of web. Form Static WEB until web 2.0
+## What is the OWASP Top 10?
+**[OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)**:
+The OWASP Top 10 provides *A list of the 10 Most Critical Web Application Security Risks*.
 
-**security problems**
-- Aviability
-- confidentiality
-- integrity
+And for each Risk it provides:
+- A description
+- Example vulnerabilities
+- Example attacks
+- Guidance on how to avoid
+- References to OWASP and other related resources
+
+##Evolution of the web
+Grafical view [here](http://evolutionoftheweb.com).
+1. 1990 *Static Web*
+2. 1995 *Dynamic web*
+3. 2000 *Web 2.0*
+
+##security requirement
+- Availability: A service or resource is made unavailability.
+- Confidentiality:Unauthorized disclosure of data.
+- Integrity: Unauthorized modification of data and unauthorized execution of programs.
 
 ```
 TASK: try hello2.php which a example about variable in URL
 ```
 ```
 TASK: http://validator.w3.org
+```
+## 1990: The static web 1.0
+The server only dispose of statics webs in HTML.
+The Server use the protocol HTTP to response the client request.
+### HTTP: HyperText Transfer Protocol.
+This protocol no save the state, so the server don't know who is responsable of request. The server only respond the request indifferently that who do it. Then, each request is independet.
+
+The parameter of transaction are in HTTP header. All the information about the request is in header. For example:
+
+```
+GET /index.html HTTP/1.1
+Host: www.domain.com
+User-Agent: Mozilla/5.0
+Accept: text/html,*/*
+Accept-Language: en-us,en;q=0.5
+Accept-Charset: ISO-8859-1,utf-8
+Connection: keep-alive
+
+[BODY]
+```
+
+Te response is similar, all the information about the response is in the header. And the information requested is in body. For example:
+
+```
+HTTP/1.x 200 OK
+Date: Sat, 28 Nov 2009 04:36:25 GMT
+Server: Apache-Coyote/1.1
+Content-Type: text/html; charset=UTF-8
+Content-Length: 1846
+
+
+[BODY]<html>...</html>
 ```
 
 ## How keep state information on session.
@@ -73,8 +121,8 @@ TASK: look at: http://www.programmable.com
 
 ## Conclusion TASKS:
 
-- [ ] Intall Apache and Firebug.
-- [ ] Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
+- [X] Intall Apache and Firebug.
+- [X] Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
 - [ ] Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution.
 - [ ] Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
 - [ ] Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
@@ -82,3 +130,25 @@ TASK: look at: http://www.programmable.com
 - 	[ ] How can the programmer prevent this attack?
 Write a second service that confirms the transaction to the client. Modify the value of the cookie in price.php from the CLIENT side and confirm the transaction with the server.
 - [ ] Add a hash to the price in the cookie, so the client cannot modify it. Modify the service of the transaction accordingly, how can the client change the price?
+
+### Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
+
+To execute the file, we have to put the file in "httdoc" directory.
+However, we use the explorer and input the login.
+Then we has to use Firebug to see the HTTP header because we are using the basic autentification so PHP put the information about the password in HTTP header.
+
+![Password in header](https://i.imgur.com/dEuoDoa.png)
+
+This information is transformed to base 64.
+Now, we can use Base64 Decoder to see the orgininal key.
+
+![Base64 translated](https://i.imgur.com/V0WBg4O.png)
+
+We can see the the user and password with the format:
+```
+user:password
+```
+
+So we can see that is a bad way to send the sensibility information on HTTP.
+
+###Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution
