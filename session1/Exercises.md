@@ -1,10 +1,8 @@
 # Presentation
-if i want to do my intership in INRIA i need to speak with Tamara before November.
+If i want to do my intership in INRIA i need to speak with Tamara before November.
 
-Presentations:
-```
-http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz
-```
+Presentations: http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz
+
 Email: tamara.rezk@inria.fr
 
 Exam:
@@ -33,17 +31,15 @@ Grafical view [here](http://evolutionoftheweb.com).
 2. 1995 *Dynamic web*
 3. 2000 *Web 2.0*
 
-##security requirement
+##Security requirement
 - Availability: A service or resource is made unavailability.
 - Confidentiality:Unauthorized disclosure of data.
 - Integrity: Unauthorized modification of data and unauthorized execution of programs.
 
-```
-TASK: try hello2.php which a example about variable in URL
-```
-```
-TASK: http://validator.w3.org
-```
+
+>TASK [1]: **try hello2.php which a example about variable in URL**
+>TASK [2]: **http://validator.w3.org**
+
 ## 1990: The static web 1.0
 The server only dispose of statics webs in HTML.
 The Server use the protocol HTTP to response the client request.
@@ -53,36 +49,36 @@ This protocol no save the state, so the server don't know who is responsable of 
 The parameter of transaction are in HTTP header. All the information about the request is in header. For example:
 
 ```
-GET /index.html HTTP/1.1
-Host: www.domain.com
-User-Agent: Mozilla/5.0
-Accept: text/html,*/*
-Accept-Language: en-us,en;q=0.5
-Accept-Charset: ISO-8859-1,utf-8
-Connection: keep-alive
+    GET /index.html HTTP/1.1
+    Host: www.domain.com
+    User-Agent: Mozilla/5.0
+    Accept: text/html,*/*
+    Accept-Language: en-us,en;q=0.5
+    Accept-Charset: ISO-8859-1,utf-8
+    Connection: keep-alive
 
-[BODY]
+    [BODY]
 ```
 
 Te response is similar, all the information about the response is in the header. And the information requested is in body. For example:
 
 ```
-HTTP/1.x 200 OK
-Date: Sat, 28 Nov 2009 04:36:25 GMT
-Server: Apache-Coyote/1.1
-Content-Type: text/html; charset=UTF-8
-Content-Length: 1846
+    HTTP/1.x 200 OK
+    Date: Sat, 28 Nov 2009 04:36:25 GMT
+    Server: Apache-Coyote/1.1
+    Content-Type: text/html; charset=UTF-8
+    Content-Length: 1846
 
 
-[BODY]<html>...</html>
+    [BODY]<html>...</html>
 ```
 
 ## How keep state information on session.
 - In URL
 - Hidden HTML
-```
-TASK Example for attack in hiddenAtack.html
-```
+
+>TASK[3]: **Example for attack in hiddenAtack.html**
+
 - Cookies:
 Used for the most visited pages(Google, Facebook, etc).
 Its a file in the hard disk created for the server code in your browser.
@@ -152,3 +148,20 @@ user:password
 So we can see that is a bad way to send the sensibility information on HTTP.
 
 ###Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution
+
+[1]
+![Parametros URL](https://i.imgur.com/PoBeVBb.png)
+The parameters has introduced by url using variables with GET metod.
+When you interact whit a link, this link use the variable asociated to save this information in URL.
+This way to keep the information involve:
+- Public information.
+- Keep information by steps.
+- Don't have the posibility to apply personalitation on the page.
+
+[2]
+This page permit to test the accessibility of the page acording to the WC3 requirements.
+To prove the page we will use a html with images, different marks and a bit text.
+![Prueba de validator.w3.com ](https://i.imgur.com/pcE1NRb.png)
+In this case, we have one problem only. We should use the alt property in marks.
+
+[3] **Example for attack in hiddenAtack.html**
