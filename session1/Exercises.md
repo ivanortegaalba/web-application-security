@@ -72,6 +72,16 @@ Te response is similar, all the information about the response is in the header.
 
     [BODY]<html>...</html>
 ```
+###Phishing attack
+This attack tricks user using similar page that the user expects to find.
+For example, if the user want to use Paypal, the user make a mistake and use Paupal.
+A hacker, can use this usual error to deceive the user so the user think is the correct page.
+This page use the same interface and request the password account of Paypal.
+The user, think is correct and are logged. This page, take this information and use to original Paypal.
+
+This attack can happen from Email, where the attacker use the other identity, for example service@paypal.com.
+
+All types of phishing is based in cheat the user with the original page that the user expect.
 
 ## How keep state information on session.
 - In URL
