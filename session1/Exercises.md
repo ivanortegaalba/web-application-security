@@ -103,10 +103,11 @@ Cookies are useful for:
 A way to do an attack, is use the same cookie of the client. The hacker can use the cookie to access the personal data user.
 
 A way to protect this attack is protect the cookie by cryptography(MAC for example).
-```
-TASK: Try the example about cookie security
-```
+
+> TASK[4]: **Try the example about cookie security Example cookie.php/2**
+
 ## JavaScript
+> TASK[5]: **All scripts will share the memory  (see memory.html)**
 ### Windows property
 The most important property to protect is “windows” option.
 If the hacker accede to this option, the hacker will has access all data. Included the cookies. This cookies permits the access at server.
@@ -118,12 +119,8 @@ B-> a children objet
 ### Mashups
 Page that included code from another servers.
 *Note: Search more information about*
-```
-TASK: simplemashup.html
-```
-```
-TASK: look at: http://www.programmable.com
-```
+
+>TASK[6]: **simplemashup.html and look at: http://www.programmable.com**
 
 ## Conclusion TASKS:
 
@@ -175,3 +172,24 @@ To prove the page we will use a html with images, different marks and a bit text
 In this case, we have one problem only. We should use the alt property in marks.
 
 [3] **Example for attack in hiddenAtack.html**
+![Cart with fail price](https://i.imgur.com/HQN2aeW.png)
+We change the price simply. We can use the browser to change the hidden form, and we choose what price we want.
+![Changing the price](https://i.imgur.com/U3okvgl.png)
+[4] **Try the example about cookie security Example cookie.php/2**
+We choose the variable name, for example "IVAN" requesting cookie.php.
+![calling cookie.php](https://i.imgur.com/THi4iOZ.png)
+One cookie will be deprecated because have a time to be valide.
+![Cookie 2 deprecated.](https://i.imgur.com/QcEqqm6.png)
+The cookies are true if are down the same domain.
+![Calling another page down the same domain.](https://i.imgur.com/QcEqqm6.png)
+The second cookie is expired.
+[5]
+The JavaScript share memory. We can see it because we declare y in a document diferent that is executed.
+And the value is shared.
+![Executing memory.html](https://i.imgur.com/CCOxd4q.png)
+[6] **simplemashup.html**
+We need to include a iframe in a html document. After, we search a mashup in programmable.com and search the author page.
+![searching the mashup](https://i.imgur.com/vcNoQYT.png)
+Then, we download the file html and put the url in src atribute. If we execute the HTML file.
+![simplemashup.html execution](https://i.imgur.com/ObS5UYT.png)
+Found!
