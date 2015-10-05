@@ -126,8 +126,8 @@ Page that included code from another servers.
 
 - [X] Intall Apache and Firebug.
 - [X] Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
-- [ ] Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution.
-- [ ] Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
+- [X] Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution.
+- [X] Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
 - [ ] Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
 - 	[ ] How can the user prevent this attack?
 - 	[ ] How can the programmer prevent this attack?
@@ -193,3 +193,12 @@ We need to include a iframe in a html document. After, we search a mashup in pro
 Then, we download the file html and put the url in src atribute. If we execute the HTML file.
 ![simplemashup.html execution](https://i.imgur.com/ObS5UYT.png)
 Found!
+### Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
+we can use the function:
+```
+setcookie("price", "2.00", time()+(60 * 60 * 24 * 7));
+```
+![The cookie is sended](https://i.imgur.com/otl0Ig3.png)
+We can see more details with "Cookie" option in Firebug.
+![More details about price.php cookie.](https://i.imgur.com/PaKJ21d.png)
+And the price, is change by html editor, but the price is't modified.
