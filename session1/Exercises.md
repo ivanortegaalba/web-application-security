@@ -94,8 +94,8 @@ Used for the most visited pages(Google, Facebook, etc).
 Its a file in the hard disk created for the server code in your browser.
 
 Cookies are useful for:
-- 	Aunthetication
-- 	Personalitation
+- 	Authentication
+- 	Personalization
 - 	Tracking
 
 **ONLY THE SITE THAT CREATE THE COOKIE CAN READ IT**
@@ -128,7 +128,7 @@ Page that included code from another servers.
 - [X] Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
 - [X] Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution.
 - [X] Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
-- [ ] Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
+- [X] Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
 - 	[ ] How can the user prevent this attack?
 - 	[ ] How can the programmer prevent this attack?
 Write a second service that confirms the transaction to the client. Modify the value of the cookie in price.php from the CLIENT side and confirm the transaction with the server.
@@ -202,3 +202,39 @@ setcookie("price", "2.00", time()+(60 * 60 * 24 * 7));
 We can see more details with "Cookie" option in Firebug.
 ![More details about price.php cookie.](https://i.imgur.com/PaKJ21d.png)
 And the price, is change by html editor, but the price is't modified.
+### Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
+To cheat the user, we need a page as equal as the original page.
+We will need to change code to change the form receiver.
+
+In my example, i use the Unicaja web (www.unicaja.es): is a Spanish bank.
+We only need to upload the page to our domain, and our domain have to be similar. For example:
+```
+www.unicaha.es
+```
+We have based in keyword mistake.
+
+Firstly we need a similar html file. For this, we have downloaded the originar html page.
+This page will have a lots error because don't find the images and gifs.
+
+We has downloaded the necessary files and we has keep in another directory.
+
+The fake page is this:
+![phishing page builded](https://i.imgur.com/xS9B4YX.png)
+After, we have to change the form, that the user will complete.
+My form code:
+```
+    document.write('<form name="datos" action="phishing-attack.php" method="POST">');
+```
+
+I only has need to change the action attribute of form to send the information to my server.
+I send the information to php file, to print by screen the form data.
+This is my php code:
+```
+    <?php
+        echo "You are attacked with phishing attack. We can use your bank data </br>";
+        echo "User: " . $_POST["user"] . "</br>";
+        echo "Password: " . $_POST["clave"];
+    ?>
+```
+We can see the result:
+![The target attacked](https://i.imgur.com/ZJzNhxI.png)

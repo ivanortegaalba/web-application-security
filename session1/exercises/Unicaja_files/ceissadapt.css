@@ -1,0 +1,764 @@
+.botoneraFull_0 {color:#0055A3}
+.botoneraFull_1 {color:#FF0000}
+.OfficeNewsViewDB_0 {background-color:#FFFFFF;}
+.OfficeNewsViewDB_1 {color:#006600;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.OfficeNewsViewDB_2 {font-size:100%;font-family:Arial;color:#000000;}
+.OfficeNewsViewDB_3 {font-size:100%;font-family:Arial;color:#000000;}
+.R05_ident_0 {background-color:red;}
+.R05_ident_1 {background-color:red;}
+.R05_ident_2 {background-color:red;}
+.R05_ident_3 {background-color:red;}
+.R05_ident_4 {background-color:blue;}
+.R05_ident_5 {background-color:blue;}
+.R05_ident_6 {background-color:blue;}
+.R05_ident_7 {background-color:blue;}
+.redireccion_0 {background-color:#FFFFFF;}
+.redireccion_1 {color:#FF0000;}
+.soloformulario_0 {background-color:#7CB87E;}
+.soloformulario_1 {background-color:#238129;}
+.soloformulario_2 {background-color:#238129;}
+.soloformulario_3 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.soloformulario_4 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.aenaModex1_0 {color:white; font-weight:bold}
+.altaMail1_0 {background-color:#FFFFFF;}
+.altaMail1_1 {background-color:#FFFFFF;}
+.altaMail1_2 {background-color:#FFFFFF;}
+.altaMail1_3 {background-color:#FFFFFF;}
+.altaMail1_4 {background-color:#FFFFFF;}
+.alta_unicaja_vinea_0 {background-color:#BEDDBB;}
+.alta_unicaja_vinea_1 {background-color:#ECECEC;}
+.alta_unicaja_vinea_2 {background-color:#BEDDBB;}
+.alta_unicaja_vinea_3 {background-color:#BEDDBB;}
+.alta_unicaja_vinea_4 {color:#FF0000;}
+.alta_unicaja_vinea_5 {color:#FF0000;}
+.aoval5_0 {font-size:100%;}
+.aoval5_1 {font-size:100%;}
+.asisVirtu_01_0 {
+	color:green !important;
+}
+.aunibroker1_0 {color:#FF0000;}
+.aunibroker1_1 {color:#FF0000;}
+.auniweb2_0 {font-size:14px;}
+.auniweb3_0 {font-size:14px;}
+.bdom45_0 {font-size:100%;}
+.besana2_0 {background-color:#238129;}
+.besana2_1 {background-color:#238129;}
+.cambioPwd1_0 {background-color:#FFFFFF;}
+.cambioPwdIVR_0 {background-color:#238129;}
+.cambioPwdIVR_1 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.cambioPwdIVR_2 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.cambioPwdLDI_0 {background-color:#238129;}
+.cambioPwdLDI_1 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.cambioPwdLDI_2 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.cambioPwdUOF_0 {background-color:#238129;}
+.cambioPwdUOF_1 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.cambioPwdUOF_2 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.cambioPwd_01_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cambioPwd_01_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.cambioPwd_02_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cambioPwd_02_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.campana1_0 {color:#D1EACE;}
+.campana1_1 {color:#D1EACE;}
+.campana1_2 {color:#238129; font-weight:bold; font-size:12px;}
+.campana1b_0 {color:#D1EACE;}
+.campana2_0 {color:#D1EACE;}
+.campana3_0 {color:#D1EACE;}
+.campana4_0 {font-size:100%;}
+.claveSeguridad_activar_p2_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_activar_p2_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_codigo_p1_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_codigo_p1_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_codigo_p2_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_codigo_p2_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_desactivar_p1_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_desactivar_p1_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_desactivar_p2_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_desactivar_p2_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_Error_0 {color:green;}
+.claveSeguridad_intro_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_intro_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_intro_android_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_intro_android_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_intro_blackberry_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_intro_blackberry_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_intro_iphone_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_intro_iphone_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_intro_otros_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_intro_otros_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_sms_p1_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_sms_p1_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveSeguridad_sms_p2_0 {background-color:#F1EFE2; text-align:left; width:95%;}
+.claveSeguridad_sms_p2_1 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.claveTemporal_02_0 {color:red}
+.claveTemporal_Error_0 {color:green;}
+.conexion2_0 {background-color:#7BB67B;}
+.conexion2_1 {background-color:#AED3AE;}
+.conexion2_2 {background-color:#AED3AE;}
+.conexion2_3 {background-color:#AED3AE;}
+.consSeg_01_0 {background-color:#BEDDBB;}
+.consTarj2_0 {color:red;}
+.coval4_0 {font-size:100%;}
+.coval4_1 {font-size:100%;}
+.cval11_0 {font-size:100%;}
+.cval11_1 {font-size:100%;}
+.cval7_0 {background-color:white;}
+.cval7_1 {background-color:white;}
+.cval72_0 {background-color:white;}
+.cval72_1 {background-color:white;}
+.cval8_0 {background-color:white;}
+.cval8_1 {background-color:white;}
+.cval82_0 {background-color:white;}
+.cval82_1 {background-color:white;}
+.depoNueveContra_25_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoNueveContra_25_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoNueveContra_25_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoNueveContra_25_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoNueveContra_25_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoTresContra25_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoTresContra25_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoTresContra25_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoTresContra25_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoTresContra25_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.desconexion_IVR_0 {background-color:#FFFFFF;}
+.desconexion_IVR_1 {background-color:#238129;}
+.desconexion_IVR_2 {background-color:#238129;}
+.desconexion_IVR_3 {font-family:Tahoma, Verdana, Helvetica, Arial, sans-serif;font-size:100%;color:#238129;}
+.desconexion_IVR_4 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.donaTra_transferencia_04_0 {font-size:100%;}
+.dpersonal_02_0 {background-color:#beddbb;}
+.dpersonal_02_1 {background-color:#FFFFFF;}
+.dpersonal_02_2 {background-color:#beddbb;}
+.dpersonal_02_3 {background-color:#FFFFFF;}
+.dpersonal_02_4 {background-color:#beddbb;}
+.dpres2_0 {color:red;}
+.drem1_0 {color:red;}
+.dval4_0 {font-size:100% !important;}
+.dval4_1 {font-size:100% !important;}
+.enttar4_0 {font-size:100%;}
+.enviaWAPPUSH_0 {color:green}
+.enviaWAPPUSH_1 {color:red}
+.enviomail_0 {color:green}
+.enviomail_1 {color:red}
+.enviomail2_0 {color:green}
+.enviomail2_1 {color:red}
+.enviosms_0 {color:green}
+.enviosms_1 {color:red}
+.enviosms2_0 {color:green}
+.enviosms2_1 {color:red}
+.envioWAPPUSH_0 {color:green}
+.envioWAPPUSH_1 {color:red}
+.error-edni_0 {background-color:#FFFFFF;}
+.error-edni_1 {color:#FF0000;}
+.errorVinea_0 {color:#FF0000 !important;}
+.faq_busqueda_0 {background-color:#FFFFFF;}
+.faq_busqueda_1 {background-color:#DC1322;}
+.formulUC_vinea2_0 {color:#0055A3}
+.formulUC_vinea2_1 {margin:0 auto 0 auto; height:144px;width:480px;background-color:#EAF5E9;BORDER: #7eb77d 1px solid;}
+.formulUC_vinea2_2 {color:#FF0000}
+.futbolcta4_0 {font-size:100%;}
+.gcExCierre1_0 {border:none; background-color:transparent;}
+.gcFlexi12_0 {background-color:#ECECEC;}
+.gcIncidencias2_0 {background-color:#FFFFFF;}
+.gcIncidencias2_1 {background-color:#FFFFFF;}
+.idclientldi1_0 {font-family:Tahoma, Verdana, Helvetica, Arial, sans-serif;font-size:100%;color:#238129;}
+.idclientldi1_1 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi1_2 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi1_3 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.idclientldi1_4 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.idclientldi1_5 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi1_6 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi1_7 {font-family:Tahoma, Verdana, Helvetica, Arial, sans-serif;font-size:100%;color:#238129;}
+.idclientldi1_8 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi1_9 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi1_10 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi1_11 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi8_0 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi8_1 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi8_2 {font-family:Tahoma, Verdana, Helvetica, Arial, sans-serif;font-size:100%;color:#238129;}
+.idclientldi8_3 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi8_4 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi8_5 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.idclientldi8_6 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.idclientldi8_7 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientldi8_8 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientuof1_0 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientuof1_1 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientuof1_2 {font-family:Tahoma, Verdana, Helvetica, Arial, sans-serif;font-size:100%;color:#238129;}
+.idclientuof1_3 {font-size:100%;}
+.idclientuof1_4 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientuof1_5 {font-size:100%;}
+.idclientuof1_6 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientuof1_7 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.idclientuof1_8 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.idclientuof1_9 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.idclientuof1_10 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.idclientuof1_11 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.ident_0 {background-color:red;}
+.ident_1 {background-color:red;}
+.ident_2 {background-color:red;}
+.ident_3 {background-color:red;}
+.ident_4 {background-color:blue;}
+.ident_5 {background-color:blue;}
+.ident_6 {background-color:blue;}
+.ident_7 {background-color:blue;}
+.ihac4_0 {font-size:100%;}
+.ihac7_0 {font-size:100%;}
+.ihac8_0 {font-size:100%;}
+.index2_0 {background-color:#7CB87E;}
+.index2_1 {background-color:#238129;}
+.index2_2 {background-color:#238129;}
+.index2_3 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.index2_4 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.indexCert_0 {background-color:#7BB67B;}
+.indexCert_1 {background-color:#AED3AE;}
+.indexCert_2 {background-color:#AED3AE;}
+.indexCert_3 {background-color:#AED3AE;}
+.IPFCondicionesGenerales_0 {background-color:#cecfce;}
+.IPFCondicionesGenerales_1 {background-color:#cecfce;}
+.IPFCondicionesGenerales_2 {background-color:white;}
+.IPFCondicionesGenerales_3 {background-color:white;}
+.IPFCondicionesGenerales_4 {font-family:arial, geneva, helvetica, verdana;color:#000000;font-size:100%;}
+.IPFlista3_0 {font-size:100%;}
+.IPFlista3_1 {font-size:100%;}
+.IPFlista3_2 {font-size:100%;}
+.IPFlista3_3 {font-size:100%;}
+.ivr_idagente_0 {background-color:#FFFFFF;}
+.ivr_idagente_1 {background-color:#238129;}
+.ivr_idagente_2 {background-color:#238129;}
+.ivr_idagente_3 {font-family:Tahoma, Verdana, Helvetica, Arial, sans-serif;font-size:100%;color:#238129;}
+.ivr_idagente_4 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.ivr_idagente_5 {font-family:Verdana, Arial, Helvetica, sans-serif;font-size:100%;}
+.ivr_idagente_6 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.ivr_idagente_7 {font-size:100%;font-family:Verdana, Arial, Helvetica, sans-serif;}
+.listaOMF4_0 {font-size:100%;}
+.listPagoCajero3_0 {font-size:100%;}
+.luniweb1_0 {color:#FF0000;}
+.luniweb1_1 {color:#000000;}
+.luniweb1_2 {color:#FF0000;}
+.luniweb1_3 {color:#000000;}
+.luniweb1_4 {color:#FF0000;}
+.luniweb1_5 {color:#000000;}
+.lval3_0 {font-size:100%;}
+.lval3_1 {font-size:100%;}
+.mdom9_0 {background-color:#BEDDBB;}
+.mdom9_1 {background-color:#F1EFE2;}
+.moval8_0 {font-size:100%;}
+.moval8_1 {font-size:100%;}
+.opv3_0 {font-size:100%;}
+.opv3_1 {font-size:100%;}
+.opv5_0 {border:none; background-color:transparent;}
+.pagoAlmeria8_0 {font-size:100%;}
+.pagoCajero3_0 {color:red;}
+.pagoCajero3_1 {color:red;}
+.pagoCajero4_0 {font-size:100%;}
+.pagoreci4_0 {font-size:100%;}
+.pcSolicitud_02_0 {background-color:#ddd8b9}
+.pcSolicitud_05_0 {color:red;}
+.pdom2_0 {color:#FC0404;}
+.phac4_0 {font-size:100%;}
+.pija4_0 {font-size:100%;}
+.pijcm4_0 {font-size:100%;}
+.prcta35_0 {font-size:100%;}
+.presIRPF_Ingresar_0 {background-color:lightgrey}
+.presIRPF_RespuestaHost_0 {color:#FF0000}
+.presIRPF_RespuestaHost_1 {color:#FF0000}
+.presIRPF_RespuestaHost_2 {color:#FF0000}
+.presIRPF_RespuestaHost_3 {color:#FF0000}
+.presIRPF_RespuestaHost_4 {color:#FF0000}
+.presIRPF_RespuestaHost_5 {color:#FF0000}
+.presMod110_Formulario_0 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_1 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_2 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_3 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_4 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_5 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_6 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_7 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod110_Formulario_8 {background-color: #FFFFFF;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod110_Formulario_9 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod110_Formulario_10 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_11 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_12 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_13 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_14 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod110_Formulario_15 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod110_Formulario_16 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod110_Ingresar_0 {background-color:lightgrey}
+.presMod110_RespuestaHost_0 {color:#FF0000}
+.presMod110_RespuestaHost_1 {color:#FF0000}
+.presMod110_RespuestaHost_2 {color:#FF0000}
+.presMod110_RespuestaHost_3 {color:#FF0000}
+.presMod110_RespuestaHost_4 {color:#FF0000}
+.presMod110_RespuestaHost_5 {color:#FF0000}
+.presMod111_Formulario_0 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_1 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_2 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_3 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_4 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_5 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_6 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_7 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod111_Formulario_8 {background-color: #FFFFFF;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod111_Formulario_9 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod111_Formulario_10 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_11 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_12 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_13 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_14 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod111_Formulario_15 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod111_Formulario_16 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod111_Formulario_fieldset {border:1px solid #D1EACE;}
+.presMod111_Ingresar_0 {background-color:lightgrey}
+.presMod111_RespuestaHost_0 {color:#FF0000}
+.presMod111_RespuestaHost_1 {color:#FF0000}
+.presMod111_RespuestaHost_2 {color:#FF0000}
+.presMod111_RespuestaHost_3 {color:#FF0000}
+.presMod111_RespuestaHost_4 {color:#FF0000}
+.presMod111_RespuestaHost_5 {color:#FF0000}
+.presMod115_Formulario_0 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod115_Formulario_1 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod115_Formulario_2 {background-color: #FFFFFF;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod115_Formulario_3 {background-color: #FFFFFF;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod115_Formulario_4 {background-color: #FFFFFF;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod115_Formulario_5 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod115_Formulario_6 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod115_Formulario_7 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod115_Formulario_8 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod115_Formulario_9 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod115_Formulario_10 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod115_Formulario_11 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod115_Formulario_12 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod115_Formulario_fieldset {border:1px solid #D1EACE;}
+.presMod115_Ingresar_0 {background-color:lightgrey}
+.presMod115_RespuestaHost_0 {color:#FF0000}
+.presMod115_RespuestaHost_1 {color:#FF0000}
+.presMod115_RespuestaHost_2 {color:#FF0000}
+.presMod115_RespuestaHost_3 {color:#FF0000}
+.presMod115_RespuestaHost_4 {color:#FF0000}
+.presMod115_RespuestaHost_5 {color:#FF0000}
+.presMod130_Formulario_0 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_1 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_2 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_3 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_4 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_5 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_6 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_7 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_8 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod130_Formulario_fieldset {border:1px solid #D1EACE;}
+.presMod130_Ingresar_0 {background-color:lightgrey}
+.presMod130_RespuestaHost_0 {color:#FF0000}
+.presMod130_RespuestaHost_1 {color:#FF0000}
+.presMod130_RespuestaHost_2 {color:#FF0000}
+.presMod130_RespuestaHost_3 {color:#FF0000}
+.presMod130_RespuestaHost_4 {color:#FF0000}
+.presMod130_RespuestaHost_5 {color:#FF0000}
+.presMod131_Formulario_0 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_1 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_2 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_3 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_4 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_5 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_6 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_7 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_8 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_9 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod131_Formulario_fieldset {border:1px solid #D1EACE;}
+.presMod131_Ingresar_0 {background-color:lightgrey}
+.presMod131_RespuestaHost_0 {color:#FF0000}
+.presMod131_RespuestaHost_1 {color:#FF0000}
+.presMod131_RespuestaHost_2 {color:#FF0000}
+.presMod131_RespuestaHost_3 {color:#FF0000}
+.presMod131_RespuestaHost_4 {color:#FF0000}
+.presMod131_RespuestaHost_5 {color:#FF0000}
+.presMod190_RespuestaHost_0 {color:#FF0000}
+.presMod190_RespuestaHost_1 {color:#FF0000}
+.presMod190_RespuestaHost_2 {color:#FF0000}
+.presMod200_Ingresar_0 {background-color:lightgrey}
+.presMod200_RespuestaHost_0 {color:#FF0000}
+.presMod200_RespuestaHost_1 {color:#FF0000}
+.presMod200_RespuestaHost_2 {color:#FF0000}
+.presMod200_RespuestaHost_3 {color:#FF0000}
+.presMod200_RespuestaHost_4 {color:#FF0000}
+.presMod200_RespuestaHost_5 {color:#FF0000}
+.presMod202_Ingresar_0 {background-color:lightgrey}
+.presMod202_RespuestaHost_0 {color:#FF0000}
+.presMod202_RespuestaHost_1 {color:#FF0000}
+.presMod202_RespuestaHost_2 {color:#FF0000}
+.presMod202_RespuestaHost_3 {color:#FF0000}
+.presMod202_RespuestaHost_4 {color:#FF0000}
+.presMod202_RespuestaHost_5 {color:#FF0000}
+.presMod303_Formulario_0 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_1 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_2 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_3 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_4 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_5 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_6 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_7 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_8 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_9 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_10 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_11 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_12 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_13 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_14 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_15 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_16 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_17 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_18 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_19 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_20 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_21 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_22 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_23 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_24 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_25 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_26 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_27 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_28 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_29 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_30 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_31 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_32 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_33 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_34 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_35 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_36 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_37 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_38 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_39 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_40 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_41 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_42 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_43 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_44 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_45 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_46 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_47 {background-color: #D1EACE;border: #7F9DB9; border-style: solid;border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px;}
+.presMod303_Formulario_48 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod303_Formulario_fieldset {border:1px solid #D1EACE;}
+.presMod303_Ingresar_0 {background-color:lightgrey}
+.presMod303_RespuestaHost_0 {color:#FF0000}
+.presMod303_RespuestaHost_1 {color:#FF0000}
+.presMod303_RespuestaHost_2 {color:#FF0000}
+.presMod303_RespuestaHost_3 {color:#FF0000}
+.presMod303_RespuestaHost_4 {color:#FF0000}
+.presMod303_RespuestaHost_5 {color:#FF0000}
+.presMod310_Formulario_0 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_1 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_2 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_3 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_4 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_5 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_6 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_7 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_8 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_9 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_10 {color: #238129; font-weight: bold; background-color: #D1EACE; padding-top:2px; padding-bottom:2px;}
+.presMod310_Formulario_fieldset {border:1px solid #D1EACE;}
+.presMod310_Ingresar_0 {background-color:lightgrey}
+.presMod310_RespuestaHost_0 {color:#FF0000}
+.presMod310_RespuestaHost_1 {color:#FF0000}
+.presMod310_RespuestaHost_2 {color:#FF0000}
+.presMod310_RespuestaHost_3 {color:#FF0000}
+.presMod310_RespuestaHost_4 {color:#FF0000}
+.presMod310_RespuestaHost_5 {color:#FF0000}
+.presMod576_Ingresar_0 {background-color:lightgrey}
+.presMod576_RespuestaHost_0 {color:#FF0000}
+.presMod576_RespuestaHost_1 {color:#FF0000}
+.presMod576_RespuestaHost_2 {color:#FF0000}
+.presMod576_RespuestaHost_3 {color:#FF0000}
+.presMod576_RespuestaHost_4 {color:#FF0000}
+.presMod576_RespuestaHost_5 {color:#FF0000}
+.presMod714_Ingresar_0 {background-color:lightgrey}
+.presMod714_RespuestaHost_0 {color:#FF0000}
+.presMod714_RespuestaHost_1 {color:#FF0000}
+.presMod714_RespuestaHost_2 {color:#FF0000}
+.presMod714_RespuestaHost_3 {color:#FF0000}
+.presMod714_RespuestaHost_4 {color:#FF0000}
+.presMod714_RespuestaHost_5 {color:#FF0000}
+.presModInfoAEAT_RespuestaHost_0 {color:#FF0000}
+.presModInfoAEAT_RespuestaHost_1 {color:#FF0000}
+.presModInfoAEAT_RespuestaHost_2 {color:#FF0000}
+.pruebaFormulario_0 {color:#0055A3}
+.pruebaFormulario_1 {color:#FF0000}
+.R05_ident_0 {background-color:red;}
+.R05_ident_1 {background-color:red;}
+.R05_ident_2 {background-color:red;}
+.R05_ident_3 {background-color:red;}
+.R05_ident_4 {background-color:blue;}
+.R05_ident_5 {background-color:blue;}
+.R05_ident_6 {background-color:blue;}
+.R05_ident_7 {background-color:blue;}
+.recargaemt8_0 {font-size:100%;}
+.recasocemt8_0 {font-size:100%;}
+.RedirectCS_0 {background-color:#238129;}
+.RequestHeaders_0 {font-size:100%;}
+.riAltaCopia2_0 {border:none; background-color:transparent;}
+.riAltaCopia2_1 {border:none; background-color:transparent;}
+.riAltaCopia2_2 {border:none; background-color:transparent;}
+.riAltaCopia2_3 {border:none; background-color:transparent;}
+.riAltaCopia3_0 {border:none; background-color:transparent;}
+.riAltaCopia3_1 {border:none; background-color:transparent;}
+.riAltaTransfe1_0 {border:none; background-color:transparent;}
+.riAltaTransfe1_1 {border:none; background-color:transparent;}
+.riAltaTransfe1_2 {border:none; background-color:transparent;}
+.riAltaTransfe1_3 {border:none; background-color:transparent;}
+.riAltaTransfe2_0 {border:none; background-color:transparent;}
+.riAltaTransfe2_1 {border:none; background-color:transparent;}
+.saModiAviso_01_0 {color: #238129}
+.saModiAviso_01_1 {color: #238129}
+.scon1_0 {color:red}
+.scon1_1 {color:red}
+.scon1_2 {color:red}
+.scon1_3 {color:red}
+.scon1_4 {color:red}
+.scon1_5 {color:red}
+.suscripcionPagares_10_0 {font-size:100%;}
+.suscripcionPagares_10_1 {font-size:100%;}
+.sval6_0 {font-size:100%;}
+.sval6_1 {font-size:100%;}
+.svval6_0 {font-size:100%;}
+.svval6_1 {font-size:100%;}
+.transferOMF4_0 {font-size:100%;}
+.trunCheques3_0 {color:red;}
+.lctaAVL_0 {background-color:#BEDDBB;}
+.lctaCON_0 {background-color:#BEDDBB;}
+.lctaEFE_0 {background-color:#BEDDBB;}
+.lctaFON_0 {background-color:#BEDDBB;}
+.lctaIPF_0 {background-color:#BEDDBB;}
+.lctaOBL_0 {background-color:#BEDDBB;}
+.lctaOTR_0 {background-color:#BEDDBB;}
+.lctaPLA_0 {background-color:#BEDDBB;}
+.lctaPRE_0 {background-color:#BEDDBB;}
+.lctaSEG_0 {background-color:#BEDDBB;}
+.lctaVAL_0 {background-color:#BEDDBB;}
+.nmcta2_0 {color:red;}
+.ctaUnivia_confFirmaUnica_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_confFirmaUnica_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_confFirmaUnica_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_confFirmaUnica_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_confFirmaUnica_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_Eleccion_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_firmaEmpresa_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_firmaEmpresa_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_firmaEmpresa_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_firmaEmpresa_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_inicio_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_inicio_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_inicio_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_inicioEmpresa_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_interv_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_interv_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_OK_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_OK_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_OK_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_OKEmpresa_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.ctaUnivia_OKEmpresa_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_confFirmaUnica_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_confFirmaUnica_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_confFirmaUnica_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_confFirmaUnica_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_confFirmaUnica_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_contra_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_empre_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_empre_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_empre_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_empre_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_inicio_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_inicio_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_interv_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_simu_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_simu_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.depoAgilContra_simu_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.trasFondos_destinoPropio_0 {font-size:100%;}
+.trasFondos_destinoPropio_1 {font-size:100%;}
+.trasFondos_firmaAjeno_0 {color:red;}
+.trasFondos_listaDestinos_0 {font-size:100%;}
+.trasFondos_listaDestinos_1 {font-size:100%;}
+.altaRecDesdeMovilInicio_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.altaRecDesdeMovilInicio_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.altaRecDesdeMovilOk_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.borrRecDesdeMovilFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.listaOperRecargaListado_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.modiRecDesdeMovilOk_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.recargaFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pcSolicitud_tipPres_0 {background-color:#ddd8b9}
+.phNuevaDetalle_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.phNuevaDetalle_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.phNuevaDetalle_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.phNuevaInicio_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.phNuevaInicio_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.phNuevaInicio_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.planes_0 {background-color:#005840;}
+.planes_1 {background-color:#cc6600;}
+.planes_2 {background-color:#4f8b0d;}
+.20051001E_0 {background-color:#008000;}
+.20051001E_1 {background-color:#FFFFFF;}
+.20051001E_2 {color:#beddbb;}
+.20051001E_3 {font-size:100%;}
+.20051001E_4 {font-size:100%;}
+.20051001E_5 {font-size:100%;}
+.20051001E_6 {font-size:100%;}
+.20051001E_7 {font-size:100%;}
+.20051001E_8 {font-size:100%;}
+.20051001E_9 {font-size:100%;}
+.20051001E_10 {color:#ff0000;}
+.20051001E_11 {font-size:100%;}
+.20051001E_12 {font-size:100%;}
+.20060301E_0 {background-color:#e3e3e3;}
+.copuDetalle_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.copuFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.copuJustHTML_0 {font-size:100%;}
+.copuResultado_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.copuResultado_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.copuResultado_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoGTTDetalle_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoGTTFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoGTTJustHTML_0 {font-size:100%;}
+.pagoGTTResultado_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoGTTResultado_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciImpuestos_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciImpuestos_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciInicioPRI_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciInicioPRI_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciInicioPSS_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciInicioUMA_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciRecibos_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciRecibos_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciResul_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciResul_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciResul_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.pagoreciResul_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.calremIBAN_seleccion_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.convertirRemesaFormulario_0 {font-size:100%;}
+.dremweb_02_0 {font-size:100%;}
+.dremweb_04_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.dremweb_04_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.dremweb_04_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.dremweb_04_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.eremweb_compress_0 {color:#289728}
+.eremweb_form_0 {color:green;}
+.eremweb_listatipos_0 {color:green;}
+.enttar_justificante_0 {font-size:100%;}
+.otarFormulario_0 {font-size:100%;}
+.tpSolicitud1_0 {color:red;}
+.tpSolicitud3_0 {color:red;}
+.tvListaTarjetasFirmaCan_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.tvListaTarjetasOKCan_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.tvSolicitud1_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.tvSolicitud1_1 {border:1px solid #DBBBA4; background-color:#FFFFFF;}
+.tvSolicitudFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.tvSolicitudFirma_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.tvSolicitudFormulario_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.tvSolicitudOK_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.tvSolicitudOK_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.viListaTarjetas9_0 {font-size:100%;}
+.viListaTarjetas9_1 {font-size:100%;}
+.viListaTarjetas9_2 {font-size:100%;}
+.viListaTarjetas9_3 {font-size:100%;}
+.viSoliTarjeta5_0 {font-size:100%;}
+.viSoliTarjeta5_1 {font-size:100%;}
+.viSoliTarjeta5_2 {font-size:100%;}
+.viSoliTarjeta5_3 {font-size:100%;}
+.VisorPDF_0 {COLOR: #0055a3}
+.VisorPDF_1 {background-color:#F1EFE2; text-align:left; width:95%;}
+.VisorPDF_2 {background-color: #D1EACE; padding-top:5px; padding-bottom:5px; text-align:center;}
+.VisorPDF_3 {COLOR: #ff0000}
+.transferencia_entrada_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_5 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_6 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_7 {font-size:100%;}
+.transferencia_entrada_favoritos_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_favoritos_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_favoritos_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_favoritos_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_favoritos_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_entrada_favoritos_5 {font-size:100%;}
+.transferencia_confirmacion_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_confirmacion_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_confirmacion_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_confirmacion_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_confirmacion_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.transferencia_confirmacion_5 {font-size:100%;}
+.transinterConsBic_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterConsBic_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterConsBic_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterConsBicCiudadEntidad_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterConsBicCiudadEntidad_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterConsBicCiudadEntidad_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_5 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_6 {color: #FFFFFF; border-color: #FFFFFF;}
+.transinterInicioFavoritos_7 {font-size:100%;}
+.transinterInicioFavoritos_8 {font-size:100%;}
+.transinterInicioFavoritos_9 {font-size:100%;}
+.acReclamFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.acReclamOK_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.avisoError_listaAccesos_0 {color:red;}
+.avisoError_listaAccesos_1 {color:red;}
+.avisoError_listaAccesos_2 {color:red;}
+.cvalSelecMercado_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalSelecMercado_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalBuscador_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalBuscador_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalFormulario_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalFormulario_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalFormulario_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalFirma_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalFirma_2 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalFirma_3 {background-color:white;}
+.cvalFirma_4 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalListaValores_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalOK_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalOK_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalOK_2 {background-color:white;}
+.cvalOK_3 {color: #FFFFFF; border-color: #FFFFFF;}
+.vvalFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.vvalFormulario_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.vvalFormulario_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.vvalIsin_0 {background-color:#BEDDBB;}
+.vvalOK_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.vvalOK_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalSelecMercado_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.cvalSelecMercado_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.suscripcionPagaresFirma_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.suscripcionPagaresFirma_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.suscripcionPagaresNoDatos_0 {font-size:+1;}
+.suscripcionPagaresNoDatos_1 {font-size:3;}
+.suscripcionPagaresOK_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.suscripcionPagaresOK_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.svvalFirmaCobro_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.svvalFirmaSuscri_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.svvalFirmaSuscri_1 {color: #FFFFFF; border-color: #FFFFFF;}
+.svvalFirmaSuscri_2 {background-color:white;}
+.svvalOKCobro_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.svvalOKSuscri_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.svvalOKSuscri_1 {background-color:white;}
+.encuestaCliInicio_0 {font-size:200%;}
+.encuestaCliInicio_1 {font-size:200%;}
+.alertas_0 {color:red;}
+.alertas_1 {color:red;}
+.alertas_2 {color:red;}
+.sucursalesMicroSite_0 {background-color:#4F8B0D;}
+.transinterInicio_0 {color: #FFFFFF; border-color: #FFFFFF;}
+.infpre1_0 {
+	background-color:#ddd8b9 !important;
+	color : #000000 !important;
+}
+.infpre1_1 {
+	background-color:#238129 !important;
+	color : #ffffff !important;
+}
+hr.rayaHorizontal {color: #FFFFFF; border-color: #FFFFFF;}
