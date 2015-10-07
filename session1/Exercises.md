@@ -165,7 +165,7 @@ So we can see that is a bad way to send the sensibility information on HTTP.
 
 To prove the page we will use a html with images, different marks and a bit text.
 
-![Prueba de validator.w3.com ](https://i.imgur.com/pcE1NRb.png)
+![Testing validator.w3.com ](https://i.imgur.com/pcE1NRb.png)
 
 In this case, we have one problem only. We should use the alt property in marks.
 ----------------
@@ -221,7 +221,11 @@ we can use the function:
 setcookie("price", "2.00", time()+(60 * 60 * 24 * 7));
 ```
 
-![The cookie is sended](https://i.imgur.com/otl0Ig3.png) We can see more details with "Cookie" option in Firebug. ![More details about price.php cookie.](https://i.imgur.com/PaKJ21d.png) And the price, is change by html editor, but the price is't modified.
+![The cookie is sended](https://i.imgur.com/otl0Ig3.png) We can see more details with "Cookie" option in Firebug.
+
+![More details about price.php cookie.](https://i.imgur.com/PaKJ21d.png)
+
+And the price, is change by html editor, but the price is't modified.
 ----------------
 
 ### Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
@@ -239,7 +243,9 @@ Firstly we need a similar html file. For this, we have downloaded the originar h
 
 We has downloaded the necessary files and we has keep in another directory.
 
-The fake page is this: ![phishing page builded](https://i.imgur.com/xS9B4YX.png) After, we have to change the form, that the user will complete. My form code:
+The fake page is this: ![phishing page builded](https://i.imgur.com/xS9B4YX.png)
+
+After, we have to change the form, that the user will complete. My form code:
 
 ```
     document.write('<form name="datos" action="phishing-attack.php" method="POST">');
