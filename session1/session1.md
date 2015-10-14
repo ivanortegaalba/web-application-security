@@ -1,9 +1,10 @@
 #Introduction to Web Programming
+
 ```
 Slides: [http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz](http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz)
 ```
 
-## What is the OWASP Top 10?
+# What is the OWASP Top 10?
 **[OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)**: The OWASP Top 10 provides _A list of the 10 Most Critical Web Application Security Risks_.
 
 And for each Risk it provides:
@@ -24,12 +25,13 @@ And for each Risk it provides:
 - Integrity: Unauthorized modification of data and unauthorized execution of programs.
 
 > TASK [1]: **try hello2.php which a example about variable in URL**
->[2]: **[http://validator.w3.org](http://validator.w3.org)**
 
-## 1990: The static web 1.0
+> [2]: **[http://validator.w3.org](http://validator.w3.org)**
+
+# 1990: The static web 1.0
 The server only dispose of statics webs in HTML. The Server use the protocol HTTP to response the client request.
 
-### HTTP: HyperText Transfer Protocol.
+## HTTP: HyperText Transfer Protocol.
 This protocol no save the state, so the server don't know who is responsable of request. The server only respond the request indifferently that who do it. Then, each request is independet.
 
 The parameter of transaction are in HTTP header. All the information about the request is in header. For example:
@@ -71,7 +73,7 @@ This attack can happen from Email, where the attacker use the other identity, fo
 
 All types of phishing is based in cheat the user with the original page that the user expect.
 
-## How keep state information on session.
+# How keep state information on session.
 - In URL
 - Hidden HTML
 
@@ -94,37 +96,36 @@ A way to protect this attack is protect the cookie by cryptography(MAC for examp
 
 > TASK[4]: **Try the example about cookie security Example cookie.php/2**
 
-## JavaScript
+# JavaScript
 > TASK[5]: **All scripts will share the memory  (see memory.html)**
 
-### Windows property
+## Windows property
 > The most important property to protect is "windows" option.
 
 If the hacker accede to this option, the hacker will has access all data. Included the cookies. This cookies permits the access at server.
 
-### DOM
+## DOM
 > P-> root B-> a children objet _Note: is a diagram about functionament of JavaScript DOM access_
 
-### AJAX
-
-
-### Mashups
+## AJAX
+## Mashups
 > Page that included code from another servers. _Note: Search more information about_
 
 > TASK[6]: **simplemashup.html and look at: [http://www.programmable.com](http://www.programmable.com)**
 
-## Conclusion TASKS:
+# Conclusion TASKS:
 - [X] Intall Apache and Firebug.
 - [X] Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
 - [X] Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution.
 - [X] Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
 - [X] Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
-    - [ ] How can the user prevent this attack?
-    - [ ] How can the programmer prevent this attack?
+  - [ ] How can the user prevent this attack?
+  - [ ] How can the programmer prevent this attack?
+
 - Write a second service that confirms the transaction to the client. Modify the value of the cookie in price.php from the CLIENT side and confirm the transaction with the server.
 - [ ] Add a hash to the price in the cookie, so the client cannot modify it. Modify the service of the transaction accordingly, how can the client change the price?
 
-### Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
+## Use  the file authentication.php together with a Base64 Decoder  to find the password of the authentication
 To execute the file, we have to put the file in "httdoc" directory. However, we use the explorer and input the login. Then we has to use Firebug to see the HTTP header because we are using the basic autentification so PHP put the information about the password in HTTP header.
 
 ![Password in header](https://i.imgur.com/dEuoDoa.png)
@@ -141,14 +142,13 @@ user:password
 
 So we can see that is a bad way to send the sensibility information on HTTP.
 
-###Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution
-----------------
-
+# ###Go though all examples cited in the slides and execute the code. Write a paragraph explaining what happens during execution
 [1] ![Parameters URL](https://i.imgur.com/PoBeVBb.png) The parameters has introduced by url using variables with GET method. When you interact whit a link, this link use the variable associated to save this information in URL. This way to keep the information involve:
 - Public information.
 - Keep information by steps.
 - Don't have the possibility to apply personalitation on the page.
-----------------
+
+--------------------------------------------------------------------------------
 
 [2] This page permit to test the accessibility of the page according to the WC3 requirements.
 
@@ -156,9 +156,7 @@ To prove the page we will use a html with images, different marks and a bit text
 
 ![Testing validator.w3.com ](https://i.imgur.com/pcE1NRb.png)
 
-In this case, we have one problem only. We should use the alt property in marks.
-----------------
-
+# In this case, we have one problem only. We should use the alt property in marks.
 [3] **Example for attack in hiddenAtack.html**
 
 ![Cart with fail price](https://i.imgur.com/HQN2aeW.png)
@@ -167,7 +165,8 @@ We change the price simply. We can use the browser to change the hidden form, an
 
 ![Changing the price](https://i.imgur.com/U3okvgl.png)
 
-----------------
+--------------------------------------------------------------------------------
+
 [4] **Try the example about cookie security Example cookie.php/2**
 
 We choose the variable name, for example "IVAN" requesting cookie.php.
@@ -182,14 +181,10 @@ The cookies are true if are down the same domain.
 
 ![Calling another page down the same domain.](https://i.imgur.com/QcEqqm6.png)
 
-The second cookie is expired.
-----------------
-
+# The second cookie is expired.
 [5] The JavaScript share memory. We can see it because we declare y in a document different that is executed. And the value is shared.
 
-![Executing memory.html](https://i.imgur.com/CCOxd4q.png)
-----------------
-
+# ![Executing memory.html](https://i.imgur.com/CCOxd4q.png)
 [6] **simplemashup.html**
 
 We need to include a iframe in a html document. After, we search a mashup in programmable.com and search the author page. +
@@ -200,10 +195,8 @@ Then, we download the file html and put the url in src attribute. If we execute 
 
 ![simplemashup.html execution](https://i.imgur.com/ObS5UYT.png)
 
-Found!
-----------------
-
-### Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
+# Found!
+## Modify formAttack.html and write a price.php file that sets a cookie (lasting for 7 days) for the price.
 we can use the function:
 
 ```
@@ -214,10 +207,8 @@ setcookie("price", "2.00", time()+(60 * 60 * 24 * 7));
 
 ![More details about price.php cookie.](https://i.imgur.com/PaKJ21d.png)
 
-And the price, is change by html editor, but the price is't modified.
-----------------
-
-### Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
+# And the price, is change by html editor, but the price is't modified.
+## Write a html page displaying a link (for example www.bnpparibas.fr) but hiding a phishing attack.
 To cheat the user, we need a page as equal as the original page. We will need to change code to change the form receiver.
 
 In my example, i use the Unicaja web (www.unicaja.es): is a Spanish bank. We only need to upload the page to our domain, and our domain have to be similar. For example:
