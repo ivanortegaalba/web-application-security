@@ -1,18 +1,7 @@
-# Presentation
-If i want to do my intership in INRIA i need to speak with Tamara before November.
-
-Presentations: [http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz](http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz)
-
-Email: tamara.rezk@inria.fr
-
-Exam:
-- TPs
-- CM
-- OWASP
-
-In the exam there are exercises about practice. I can send the practise to teacher to see if correct.
-
-#Introduction
+#Introduction to Web Programming
+```
+Slides: [http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz](http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/web15.tar.gz)
+```
 
 ## What is the OWASP Top 10?
 **[OWASP](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)**: The OWASP Top 10 provides _A list of the 10 Most Critical Web Application Security Risks_.
