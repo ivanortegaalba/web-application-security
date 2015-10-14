@@ -31,5 +31,5 @@ $messages=file_get_contents($file);
             <?php echo $messages?>
         </div>
     </body>
-
+s
 </html>
