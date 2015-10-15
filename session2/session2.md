@@ -1,4 +1,4 @@
-Presentations: http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/was2.tar.gz
+Presentations: [http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/was2.tar.gz](http://www-sop.inria.fr/members/Tamara.Rezk/teaching/caspar/was2.tar.gz)
 
 ##Same Origin Policy (high level)
 
@@ -26,6 +26,5 @@ Its possible that happen the examples, if we use https, the cookie is secure.
 
 This is possible, only, if the cookie not change with the http.
 
-#### ABOUT OWASP
-
+# ABOUT OWASP
 5 sites where: 2 use standard defense 2 not use standard defense 1 not common defense
