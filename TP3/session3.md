@@ -26,7 +26,7 @@ This is the process CSRF.
 
 1.	Execute attacker code JS
 2.	Load from attacker server code
-3.	The client execute the code received by AJAX process. This code send the request to Trusted server the service that want to attack. For example, getContactList service. This is posible because have the client cookie and the server think that is the client who do the request.
+3.	The client execute the code received by AJAX process. This code send the request to Trusted server the service that want to attack. For example, getContactList service. This is possible because have the client cookie and the server think that is the client who do the request.
 
 ***Complete with more information about it***
 
@@ -34,7 +34,7 @@ This is the process CSRF.
 
 ##### Add a secret that the attacker cannot guess
 
-If we use a token, we prevent this attack. This token is a number generated randomly. So the html have in URL requests the token as GET parameter. And the request from attacker code don't have this token, this random number. Then the browser always send the cookie but the trusted server will know that is a attack because don't have the token. BUT, the attacker code, can analise the DOM and find the token code. this token can find because is JS imported, but if it is a iframe, this code wouldn't can access the DOM.
+If we use a token, we prevent this attack. This token is a number generated randomly. So the html have in URL requests the token as GET parameter. And the request from attacker code don't have this token, this random number. Then the browser always send the cookie but the trusted server will know that is a attack because don't have the token. BUT, the attacker code, can analyze the DOM and find the token code. this token can find because is JS imported, but if it is a iframe, this code wouldn't can access the DOM.
 
 ##### Re-authenticate for critical operations
 
@@ -43,7 +43,10 @@ If we use a token, we prevent this attack. This token is a number generated rand
 XSS
 ---
 
-code injection is esencialy execute code from attacker. this can execute in: - SQL - JavaScript - Server side
+code injection is essentially execute code from attacker. this can execute in:
+- SQL 
+- JavaScript
+- Server side
 
 If the code is executed in server, this is know injection and if the code is executed in client is know as XSS.
 
@@ -60,12 +63,12 @@ If the code is executed in server, this is know injection and if the code is exe
 
 #### CSP
 
-the code is not acepted if link is another server that the declared in CSP.
+the code is not accepted if link is another server that the declared in CSP.
 
-And the code is not acepted if the code is inline, so it's included in HTML.
+And the code is not accepted if the code is inline, so it's included in HTML.
 
 The injection that include the script in URL and the server print GET variable, is not found, because the server print this code as inline code.
 
-This isn't enought because all the user don't have the last version of browsers.
+This isn't enough because all the user don't have the last version of browsers.
 
 ##### SOP and XSS
