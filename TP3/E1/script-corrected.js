@@ -14,6 +14,7 @@ function save() {
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('add').addEventListener('click', save)
 })
+
 function strip_tags(input, allowed) {
   //  discuss at: http://phpjs.org/functions/strip_tags/
   // original by: Kevin van Zonneveld (http://kevin.vanzonneveld.net)
