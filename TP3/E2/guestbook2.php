@@ -12,7 +12,7 @@ $messages=file_get_contents($file);
 	//show.innerHTML= xmlhttp.responseText;
      } ;
      var input=document.getElementById("message").value;
-     var url = "http://localhost:8080/web-application-security/TP3/examples/guestbookleavemessage2.php?message="+input;
+     var url = "http://localhost:8080/web-application-security/TP3/E2/guestbookleavemessage2.php?message="+input;
      var xmlhttp = new XMLHttpRequest();
      xmlhttp.open('GET',url, true);
      xmlhttp.onreadystatechange = callback;
